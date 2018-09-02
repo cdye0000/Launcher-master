@@ -1,5 +1,5 @@
 # Launcher-master
-根据最新版Launcher修改单层桌面。
+根据最新版Launcher修改单层桌面。分支origin是谷歌原始版本，没有进行修改。
 
 ## 概述
 本版本基于Launcher3最新版进行开发，开发包括：双层改单层，特效，菜单，点击卸载等功能。
